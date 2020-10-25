@@ -20,7 +20,7 @@ module.exports = {
       orphanage.images = orphanage.images.split(",");
       orphanage.firstImage = orphanage.images[0];
 
-      if (orphanage.open_on_weekends == "0") {
+      if (orphanage.open_on_weekends === "0") {
         orphanage.open_on_weekends = false;
       } else {
         orphanage.open_on_weekends = true;

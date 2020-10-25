@@ -20,4 +20,4 @@ server
 
 server.listen(5500, () => {
   console.log("Server started");
-});
+}); 

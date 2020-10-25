@@ -1,5 +1,5 @@
 {
-  "name": "Happy",
+  "name": "happy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +19,8 @@
   "homepage": "https://github.com/dlucascampelo/Rocketseat-s-Happy#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.5"
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.5",
+    "sqlite-async": "^1.1.0"
   }
 }
