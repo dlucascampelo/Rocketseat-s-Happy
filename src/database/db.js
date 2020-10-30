@@ -1,6 +1,6 @@
 const Database = require('sqlite-async');
 
-const execute = (db) =>{
+function execute(db) {
     return db.exec(`
         CREATE TABLE IF NOT EXISTS orphanages (
             id INTEGER PRIMARY KEY AUTOINCREMENT,

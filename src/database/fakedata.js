@@ -7,12 +7,12 @@ module.exports = [
     description:
       "Lar Batista Elizabeth Mein trata-se de uma sociedade evangélica beneficente, sócio-filantrópica, sem fins lucrativos",
     images: [
-      "https://images.unsplash.com/photo-1563465814437-b1a057a461ed?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",
-      "https://images.unsplash.com/photo-1594575111057-47b35c5f98f7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",
+      "https://jconlineimagem.ne10.uol.com.br/imagem/galeria/2016/04/29/5712_avulsa/normal/0d74586badbef2905ed11b65c6dd6199.jpg",
+      "https://larbempe.files.wordpress.com/2012/09/5257439533_51c22a2604_b.jpg",
     ],
     instructions:
       "Venha como se sentir a vontade e traga muito amor e paciência para dar",
-    opening_hours: "Horário de visitas Das 18h até 8h",
+    opening_hours: "Horário de visitas Das 8h até as 18h",
     open_on_weekends: "1",
   },
   {
