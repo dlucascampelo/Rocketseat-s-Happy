@@ -1,5 +1,5 @@
 // create map
-const map = L.map('mapid').setView([-8.0440316,-34.9295176], 15)
+const map = L.map('mapid').setView([-8.0545513,-34.8971377], 15)
 
 // create and add tileLayer
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
@@ -94,7 +94,7 @@ function toggleSelect(event) {
     input.value = button.dataset.value
 }
 
-function validate(event) {
+const validate = (event) => {
 
     // validar se lat e lng estao preenchidos
     const needsLatAndLng = false;
@@ -102,5 +102,4 @@ function validate(event) {
         event.preventDefault()
         alert('Selecione um ponto no mapa')
     }
-    
 }
