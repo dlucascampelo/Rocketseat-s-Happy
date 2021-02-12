@@ -1,4 +1,6 @@
-
+<h1 align="center">
+    <img alt="Happy" title="Happy" src="https://raw.githubusercontent.com/rocketseat-education/nlw-03-discovery/88348b66aa68676858bb260fb0c3bd905d2b4332/.github/logo.svg" />
+</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://github.com/rocketseat-education/nlw-03-discovery/blob/main/.github/happy.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
